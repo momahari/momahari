@@ -22,6 +22,12 @@ jobs:
           github_user_name: momahari
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+          # Optional customizations:
+          # palette: github-dark
+          # color_snake: '#58a6ff'
+          # color_dots: '#161b22,#0d1117,#21262d,#30363d,#484f58'
             
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
