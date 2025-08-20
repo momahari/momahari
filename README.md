@@ -34,8 +34,9 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/momahari/momahari/blob/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/momahari/momahari/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 
 ---
