@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm MAHARI 👋
 
-<!--
-**momahari/momahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate AI enthusiast building my portfolio through CS50AI projects and real-world applications. I love solving algorithmic challenges, organizing clean codebases, and connecting tech to global impact.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, GitHub workflows, AI algorithms
+- Project structuring, README writing, debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+Organizing my CS50AI projects into a professional GitHub repo and mastering Git workflows.
+
+## 📫 Let's connect!
+[LinkedIn](https://www.linkedin.com) • [Twitter](https://twitter.com) • [Email](mailto:your@email.com)
+
