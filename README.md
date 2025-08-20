@@ -5,40 +5,24 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=2F81F7&center=true&vCenter=true&width=500&lines=Electrical+Engineer+⚡;Software+Developer+💻;Open+Source+Enthusiast+🌍;Always+Learning+New+Things+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=2F81F7&center=true&vCenter=true&width=500&lines=Electrical+Engineer+⚡;Software+Developer+💻;Open+Source+Enthusiast+🌍" alt="Typing animation" />
 </p>
-
----
-
-### 👨‍💻 About Me  
-- 🎓 Electrical Engineer with strong programming skills  
-- 💡 Passionate about **AI, ERP, Data Science, and Automation**  
-- 🚀 Building projects in **Python, C, JavaScript, SQL**  
-- 🌱 Currently learning **.NET & Odoo Development**  
-- 📌 Final project: [Y-Traction (YouTube Productivity Extension)](https://github.com/momahari/Y-traction-)  
 
 ---
 
 ### 🚀 Tech Stack  
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,java,sql" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=django,flask,dotnet,nodejs,bootstrap,react" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,java,sql,django,flask,dotnet,nodejs,bootstrap,react,git,github,vscode,docker,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momahari&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momahari&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=momahari&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momahari&theme=tokyonight" height="170px"/>
 </p>
 
 <p align="center">
@@ -47,16 +31,12 @@
 
 ---
 
-### 🌍 Connect With Me  
+### 🐍 Contribution Snake  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <img src="https://github.com/momahari/momahari/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 ⭐ From [momahari](https://github.com/momahari)
-
-
