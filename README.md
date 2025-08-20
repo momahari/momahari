@@ -1,5 +1,3 @@
-<!-- Profile README -->
-
 <h1 align="center">
   Hi there 👋, I'm Mohamed
 </h1>
@@ -11,7 +9,6 @@
 ---
 
 ### 🚀 Tech Stack  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,java,sql,django,flask,dotnet,nodejs,bootstrap,react,git,github,vscode,docker,linux" />
 </p>
@@ -19,7 +16,6 @@
 ---
 
 ### 📊 GitHub Activity  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=momahari&show_icons=true&theme=tokyonight" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=momahari&theme=tokyonight" height="170px"/>
@@ -32,13 +28,6 @@
 ---
 
 ### 🐍 Contribution Snake  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/momahari/momahari/output/snake.svg" alt="Snake animation" />
 </p>
-
-
-
----
-
-⭐ From [momahari](https://github.com/momahari)
